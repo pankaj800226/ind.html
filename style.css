@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 73px;
+    background-color: black;
+    color: white;
+
+}
+.navbar ul li a{
+    color: white;
+    text-decoration: none;
+
+}
+.navbar ul li {
+    /* margin: 10px; */
+    display: inline-block;
+    margin: 9px;
+    font-size: 20px;
+    margin: 25px;
+}
+.right{
+    background-color: rgb(128, 0, 0);
+    /* height: 46vh; */
+    display: inline-block;
+height: 82vh;
+width: 50%;
+}
+.left{
+    background-color: blue;
+    height: 114px;
+    display: inline-block;
+height: 82vh;
+width: 50%;
+
+}
+footer{
+    font-family: 'Fuzzy Bubbles', cursive;
+    margin: 0px;
+    padding: 6px;
+    background-color: black;
+    color: white;
+    border: px solid black;
+}
+.center{
+    text-align: center;
+}
